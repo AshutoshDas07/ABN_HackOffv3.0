@@ -77,9 +77,11 @@ Slider of the App starting with Men's Section
 
 
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(3).jpeg)
+
 These are the trending graphs corresponding to Shirts ^
 
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.28%20PM%20(1).jpeg)
+
 These are the trending graphs corresponding to T-Shirts ^
 
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.28%20PM.jpeg)
