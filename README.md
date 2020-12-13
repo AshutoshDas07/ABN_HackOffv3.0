@@ -65,16 +65,20 @@ This is the Welcome Screen of App
 We have provided the Phone Authentication powered by Google Firebase for the Retailer User which can help him connect to Manufacturers
 
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.25%20PM%20(2).jpeg)
+
 Slider of the App starting with Men's Section
 
-
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.26%20PM%20(1).jpeg)
-![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.26%20PM.jpeg)
-![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.26%20PM%20(2).jpeg)
-![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(1).jpeg)
-![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(2).jpeg)
-![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM.jpeg)
 
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.26%20PM.jpeg)
+
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.26%20PM%20(2).jpeg)
+
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(1).jpeg)
+
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(2).jpeg)
+
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM.jpeg)
 
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(3).jpeg)
 
