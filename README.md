@@ -54,3 +54,15 @@ These results are pretty good considering a small and potentially noisy dataset 
 ## LSTM Network ##
 After the CNN model has been trained, it predicts the trending clothing styles and after that along with the help of time-series data a LSTM model is trained which then helps to predict the demand of those trending clothing styles in the market. 
 The time-series data happens to be from a retail store.
+
+## Final Application ##
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.25%20PM%20(1).jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.25%20PM%20(2).jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.25%20PM.jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.26%20PM%20(1).jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.26%20PM%20(2).jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.26%20PM.jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(1).jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(2).jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM.jpeg)
+
