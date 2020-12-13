@@ -9,6 +9,9 @@ The task is to predict the demand of various clothing styles based on their Sell
 The demands for the various clothing styles will then be directly transferred to the app where certain statistics will be shown to retailers. 
 
 ## Preprocessing required for LSTM ##
+Certain preprocessing is required to be applied before we can train the LSTM network. Below is a snapshot of data after preprocessing (for shirt)
+
+['Selling Price(t-1)', 'Footfall(t-1)' , 'Manufactured pcs(t-1)', 'Pcs.Sold(t-1)', 'Demand(t-1)']
 
 
 
