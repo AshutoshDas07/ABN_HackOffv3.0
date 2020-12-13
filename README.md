@@ -25,7 +25,7 @@ Currently, this project is split into several files to make prototyping easier. 
 * `preprocessing.py` to perform image preprocessing.
 * Finally, `Trend_Prediction.ipynb` is run to actually train the model and test the model.
 
-## Preprocessing the Web-Srcaped Images
+## Preprocessing the Web-Scraped Images
 We used [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) to parse webpages. Then, We downloaded the images and start preprocessing.
 
 Let's say we load the following image in `preprocessing.py` :
