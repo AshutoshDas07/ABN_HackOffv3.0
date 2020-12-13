@@ -12,6 +12,8 @@ This app is made to predict trends and demands of various clothing styles. This 
 
 **This Current** folder contains the UI part of the app.
 
+**Demand_Analysis** folder contains the LSTM network which is used to analyse the demands of various clothing styles.
+
 # Predicting Trends
 This part is an effort to predict fashion trends over time using machine learning. Currently, We are able to classify different types of clothing (Shirts, Skirts, Pants, Dress) using images webscraped from chictopia.com, instagram and training a model built using Keras.
 
@@ -48,3 +50,7 @@ Result after training:
 ![Screenshot (93)](https://user-images.githubusercontent.com/42767796/102005284-a9713480-3d3d-11eb-99d4-d44c93bf6f7b.png)
 
 These results are pretty good considering a small and potentially noisy dataset (~1200 images). For further improvements, We might use a GAN (Generational-Adversarial Network) which has been proven to do better for fashion classification and add more images to the dataset.
+
+## LSTM Network ##
+After the CNN model has been trained, it predicts the trending clothing styles and after that along with the help of time-series data a LSTM model is trained which then helps to predict the demand of those trending clothing styles in the market. 
+The time-series data happens to be from a retail store.
