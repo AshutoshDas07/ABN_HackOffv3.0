@@ -12,6 +12,12 @@ The demands for the various clothing styles will then be directly transferred to
 Certain preprocessing is required to be applied before we can train the LSTM network. Below is a snapshot of data after preprocessing (for shirt)
 
 ['Selling Price(t-1)', 'Footfall(t-1)' , 'Manufactured pcs(t-1)', 'Pcs.Sold(t-1)', 'Demand(t-1)']
+(https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/Demand_Analysis/Preprocess_t1.png) 
+
+['Demand(t)']
+(https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/Demand_Analysis/Preprocess_t.png)
+
+After preprocessing the model is trained and the data is sent to the Android Application.
 
 
 
