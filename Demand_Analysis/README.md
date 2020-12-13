@@ -13,11 +13,11 @@ Certain preprocessing is required to be applied before we can train the LSTM net
 
 ['Selling Price(t-1)', 'Footfall(t-1)' , 'Manufactured pcs(t-1)', 'Pcs.Sold(t-1)', 'Demand(t-1)']
 
-(https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/Demand_Analysis/Preprocess_t1.png?raw=true) 
+![Entire data](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/Demand_Analysis/Preprocess_t1.png?raw=true) 
 
 ['Demand(t)']
 
-(https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/Demand_Analysis/Preprocess_t.png?raw=true)
+![Target Variable](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/Demand_Analysis/Preprocess_t.png?raw=true)
 
 After preprocessing the model is trained and the data is sent to the Android Application.
 
