@@ -24,7 +24,7 @@ public class SplashScreen extends AppCompatActivity {
     }
 
     private void launchWelcomeActivity() {
-        startActivity(new Intent(SplashScreen.this, WelcomeActivity.class));
+        startActivity(new Intent(SplashScreen.this, FirebasePhoneActivity.class));
         finish();
     }
 }

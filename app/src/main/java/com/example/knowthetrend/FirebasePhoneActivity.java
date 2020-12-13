@@ -75,7 +75,7 @@ public class FirebasePhoneActivity extends AppCompatActivity implements View.OnC
                                 if (task.isSuccessful()) {
                                     Toast.makeText(FirebasePhoneActivity.this, "Verification Success", Toast.LENGTH_SHORT).show();
                                     FirebaseUser user = task.getResult().getUser();
-                                    Intent i=new Intent(FirebasePhoneActivity.this,SplashScreen.class);
+                                    Intent i=new Intent(FirebasePhoneActivity.this,WelcomeActivity.class);
                                     startActivity(i);
                                 } else {
                                     if (task.getException() instanceof FirebaseAuthInvalidCredentialsException) {
