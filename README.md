@@ -57,8 +57,11 @@ The time-series data happens to be from a retail store.
 
 ## Final Application ##
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.25%20PM.jpeg)
+
 This is the Welcome Screen of App
+
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.25%20PM%20(1).jpeg)
+
 We have provided the Phone Authentication powered by Google Firebase for the Retailer User which can help him connect and talk to mannufacturers
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.25%20PM%20(2).jpeg)
 Slider of the App starting with Men's Section
@@ -69,4 +72,7 @@ Second Section of the App with Women's Section
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(1).jpeg)
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(2).jpeg)
 ![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM.jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.27%20PM%20(3).jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.28%20PM%20(1).jpeg)
+![](https://github.com/AshutoshDas07/ABN_HackOffv3.0/blob/master/App%20Screenshots/WhatsApp%20Image%202020-12-13%20at%203.00.28%20PM.jpeg)
 
