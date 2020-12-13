@@ -1,5 +1,5 @@
 # Predicting Trends
-This part is an effort to predict fashion trends over time using machine learning. Currently, We are able to classify different types of clothing (Shirts, Skirts, Pants, Dress) using images webscraped from chictopia.com, instagram and training a model built using Keras.
+This part is an effort to predict fashion trends over time using machine learning. Currently, We are able to classify different types of clothing (Shirts, Skirts, Pants, Dress) using images webscraped from Chictopia.com, Instagram. For classification, we have trained our model using Keras and Tensorflow. 
 
 ## How is this Predicting Trend part set up ?
 Currently, this project is split into several files to make prototyping easier. Current workflow:
@@ -8,7 +8,7 @@ Currently, this project is split into several files to make prototyping easier. 
 
 * `webscraper.py` webscrapes chictopia.com for images and tags.
 * `csvDownload.py` actually downloads the scraped images which are fed into.
-* `preprocessing.py` to perform image preprocessing.
+* `preprocessing.py` to perform image preprocessing. Certain Image Processing algorithms are applied and images are preprocessed according to our needs.
 * Finally, `Trend_Prediction.ipynb` is run to actually train the model and test the model.
 
 ## Preprocessing the Web-Srcaped Images
